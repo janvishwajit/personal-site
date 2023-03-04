@@ -1,0 +1,14 @@
+
+img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 0.4px black solid;
+
+}
+h2{
+    text-align: center;
+    margin: 1.5% auto 1.2% auto;
+}
+
